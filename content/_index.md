@@ -1,16 +1,15 @@
 ---
-title: "Accueil"
+title: "Insp'E-Bot vous souhaite la bienvenue"
 ---
 
-# Bienvenue sur l'assistant Insp'E-Bot
+Insp'E-Bot est l'assistant virtuel officiel de l'INSPE d'Aix-Marseille Université.
 
-Ce portail est dédié aux étudiants de l'INSPE Aix-Marseille. Vous y trouverez :
+Il s'adresse à toute personne souhaitant obtenir des informations sur l'INSPE d'Aix-Marseille Université : étudiants, futurs étudiants, enseignants, personnels administratifs ou tout autre public intéressé par l'INSPE et ses activités.
 
-* Les guides pour vos stages.
-* Les informations sur la scolarité.
-* Un chatbot intelligent (en bas à droite) pour répondre à vos questions complexes.
+Vous y trouverez :
+- des informations sur les formations proposées par l'INSPE ;
+- des informations sur les admissions et les inscriptions ;
+- des informations sur la scolarité et les stages.
 
----
-
-*Projet Open Source & Respectueux du RGPD.*
+Insp'E-Bot est respectueux du RGPD.
 
