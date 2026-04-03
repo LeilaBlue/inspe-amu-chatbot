@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'fr-fr'
+title = 'Mon Chatbot INSPE'
+theme = 'hugo-theme-relearn'
+
+[params]
+  themeVariant = "relearn-light"

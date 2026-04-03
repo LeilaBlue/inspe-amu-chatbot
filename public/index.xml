@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accueil :: Mon Chatbot INSPE</title>
+    <link>http://localhost:1313/index.html</link>
+    <description>Bienvenue sur l’assistant Insp’E-Bot&#xD;Ce portail est dédié aux étudiants de l’INSPE Aix-Marseille. Vous y trouverez :&#xA;Les guides pour vos stages. Les informations sur la scolarité. Un chatbot intelligent (en bas à droite) pour répondre à vos questions complexes. Projet Open Source &amp; Respectueux du RGPD.</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

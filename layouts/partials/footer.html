@@ -1,0 +1,43 @@
+<!-- Insp'E-Bot Chatbot -->
+<style>
+  #chat-bubble {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    z-index: 9999;
+  }
+  #chat-bubble button {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #7C3AED;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    font-size: 28px;
+  }
+  #chat-frame {
+    display: none;
+    position: fixed;
+    bottom: 100px;
+    right: 30px;
+    width: 400px;
+    height: 600px;
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+    z-index: 9999;
+  }
+</style>
+
+<div id="chat-bubble">
+  <button onclick="toggleChat()">💬</button>
+</div>
+<iframe id="chat-frame" src="http://localhost:3000"></iframe>
+
+<script>
+  function toggleChat() {
+    var frame = document.getElementById('chat-frame');
+    frame.style.display = frame.style.display === 'none' ? 'block' : 'none';
+  }
+</script>
