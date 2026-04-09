@@ -9,6 +9,26 @@
     --MENU-HEADER-LINK-color: #ffffff;
     --MENU-SEARCH-BG-color: #7a3ef7;
     --MENU-SEARCH-color: #ffffff;
+    --MENU-SEARCH-PLACEHOLDER-color: #ffffff;
+    --MENU-HOME-LINK-color: #ffffff;
+    --MENU-HOME-LINK-HOVER-color: #ffffff;
     --LINK-color: #9561fb;
     --LINK-HOVER-color: #1e64de;
+}
+
+/* Force le texte en blanc dans le menu */
+.logo-title {
+    color: #ffffff !important;
+}
+
+#R-homelinks a.padding {
+    color: #ffffff !important;
+}
+
+#R-sidebar {
+    background-color: #9561fb !important;
+}
+
+#R-header-wrapper {
+    background-color: #9561fb !important;
 }
