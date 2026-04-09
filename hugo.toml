@@ -4,3 +4,4 @@ title = "Insp'E-Bot"
 theme = 'hugo-theme-relearn'
 [params]
   themeVariant = "relearn-light"
+  custom_css = ["css/custom.css"]

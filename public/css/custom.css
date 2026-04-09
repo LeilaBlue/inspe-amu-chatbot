@@ -1,0 +1,14 @@
+/* Couleurs INSPE AMU */
+:root {
+    --MENU-SECTIONS-BG-color: #9561fb;
+    --MENU-HEADER-BG-color: #9561fb;
+    --MENU-HEADER-BORDER-color: #7a3ef7;
+    --MENU-SECTIONS-ACTIVE-BG-color: #7a3ef7;
+    --MENU-SECTIONS-LINK-color: #ffffff;
+    --MENU-SECTIONS-LINK-HOVER-color: #ffffff;
+    --MENU-HEADER-LINK-color: #ffffff;
+    --MENU-SEARCH-BG-color: #7a3ef7;
+    --MENU-SEARCH-color: #ffffff;
+    --LINK-color: #9561fb;
+    --LINK-HOVER-color: #1e64de;
+}
