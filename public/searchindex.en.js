@@ -1,14 +1,6 @@
 var relearn_searchindex = [
   {
-    "breadcrumb": "",
-    "content": "Bienvenue sur l’assistant Insp’E-Bot\rCe portail est dédié aux étudiants de l’INSPE Aix-Marseille. Vous y trouverez :\nLes guides pour vos stages. Les informations sur la scolarité. Un chatbot intelligent (en bas à droite) pour répondre à vos questions complexes. Projet Open Source \u0026 Respectueux du RGPD.",
-    "description": "Bienvenue sur l’assistant Insp’E-Bot\rCe portail est dédié aux étudiants de l’INSPE Aix-Marseille. Vous y trouverez :\nLes guides pour vos stages. Les informations sur la scolarité. Un chatbot intelligent (en bas à droite) pour répondre à vos questions complexes. Projet Open Source \u0026 Respectueux du RGPD.",
-    "tags": [],
-    "title": "Accueil",
-    "uri": "/index.html"
-  },
-  {
-    "breadcrumb": "Accueil",
+    "breadcrumb": "Insp'E-Bot vous souhaite la bienvenue",
     "content": "",
     "description": "",
     "tags": [],
@@ -16,7 +8,15 @@ var relearn_searchindex = [
     "uri": "/categories/index.html"
   },
   {
-    "breadcrumb": "Accueil",
+    "breadcrumb": "",
+    "content": "Insp’E-Bot est l’assistant virtuel officiel de l’INSPE d’Aix-Marseille Université.\nIl s’adresse à toute personne souhaitant obtenir des informations sur l’INSPE d’Aix-Marseille Université : étudiants, futurs étudiants, enseignants, personnels administratifs ou tout autre public intéressé par l’INSPE et ses activités.\nVous y trouverez :\ndes informations sur les formations proposées par l’INSPE ; des informations sur les admissions et les inscriptions ; des informations sur la scolarité et les stages. Insp’E-Bot est respectueux du RGPD.",
+    "description": "Insp’E-Bot est l’assistant virtuel officiel de l’INSPE d’Aix-Marseille Université.\nIl s’adresse à toute personne souhaitant obtenir des informations sur l’INSPE d’Aix-Marseille Université : étudiants, futurs étudiants, enseignants, personnels administratifs ou tout autre public intéressé par l’INSPE et ses activités.\nVous y trouverez :\ndes informations sur les formations proposées par l’INSPE ; des informations sur les admissions et les inscriptions ; des informations sur la scolarité et les stages. Insp’E-Bot est respectueux du RGPD.",
+    "tags": [],
+    "title": "Insp'E-Bot vous souhaite la bienvenue",
+    "uri": "/index.html"
+  },
+  {
+    "breadcrumb": "Insp'E-Bot vous souhaite la bienvenue",
     "content": "",
     "description": "",
     "tags": [],

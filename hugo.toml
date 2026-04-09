@@ -1,7 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://cute-otter-dac479.netlify.app/'
 languageCode = 'fr-fr'
-title = 'Mon Chatbot INSPE'
+title = "Insp'E-Bot"
 theme = 'hugo-theme-relearn'
-
 [params]
   themeVariant = "relearn-light"
