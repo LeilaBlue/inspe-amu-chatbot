@@ -1,5 +1,5 @@
 ---
-title: "Insp'E-Bot vous souhaite la bienvenue"
+title: "Bienvenue !"
 ---
 
 Insp'E-Bot est l'assistant virtuel officiel de l'INSPE d'Aix-Marseille Université.
